@@ -55,7 +55,7 @@ func GetLogLists(allLogsLink string) ([]Log, error) {
 	}
 
 	ll := &struct {
-		Logs []Log `json:"logs`
+		Logs []Log `json:"logs"`
 	}{}
 	err = json.NewDecoder(rsp.Body).Decode(ll)
 	if err != nil {
