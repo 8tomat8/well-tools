@@ -1,6 +1,6 @@
 # Well tools
 
-It is a repository containing different simple tools welling systems.
+This repository contains different simple tools for "welling" systems.
 
 |name|purpose|folder|
 |---|---|---|
